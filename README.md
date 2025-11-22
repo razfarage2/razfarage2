@@ -1,42 +1,42 @@
-# Hey there!
+# Hi, I'm Raz Farage 👋
 
-Welcome to my GitHub profile. This page gives a quick look at who I am, what I work on, and what I'm currently focusing on.
+**3D Generalist, Animator & Software Engineer**
 
-## About Me
-
-I'm a 3D artist and technical generalist with experience in animation, rigging, and pipelines. I enjoy mixing creative problem‑solving with technical workflows.
-
-## Current Focus
-
-* Rigging and character animation
-* Maya tooling and automation
-* Python scripting for DCCs
-* Building better production workflows
-
-## Tools & Technologies
-
-* **3D & DCC:** Maya, Blender, Substance Painter, After Effects
-* **Programming:** Python, TypeScript, React, Node.js
-* **Rendering:** Arnold, Redshift
-
-## Projects
-
-Here are some highlighted projects you can explore:
-
-* **AOV Manager for Maya** – Tools for extracting and managing render passes.
-* **Animation utilities** – Scripts and helpers to speed up rigging and animation tasks.
-* **General-purpose dev tools** – Various utilities for React, backend services, and more.
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
-
-## Contact
-
-Feel free to reach out if you want to collaborate or talk about animation tech.
+I bridge the gap between creative workflows and scalable software. As a generalist, I handle the full 3D pipeline—from modeling and rigging to animation—while architecting backend systems and automation tools that help productions run smoother.
 
 ---
 
-*Thanks for stopping by!*
+### 🛠️ Tech Stack & Skills
+
+**Core Engineering**
+* **Languages:** Python, TypeScript, C++ (Arduino)
+* **Backend & Cloud:** AWS, Docker, Terraform (CDK), Microservices
+* **Frontend:** React, Electron, React Native
+
+**Creative Domains**
+* **3D Pipeline:** Modeling, Rigging, Animation (Maya, Blender)
+* **Automation:** Maya Python/PyMEL, After Effects Scripting
+* **Systems:** Scalable Backend Architectures, Pipeline Tool Development
+
+---
+
+### 🔭 Current Focus
+* **Pipeline Tools:** Developing live-link exporters between Maya and After Effects to streamline multi-pass compositing.
+* **AI Systems:** Architecting multi-agent systems for workflow automation and personal assistance ecosystems.
+
+---
+
+### 📊 Contributions & Activity
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=razfarage2&show_icons=true&theme=minimal&count_private=true" alt="Raz's GitHub Stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=razfarage2&theme=minimal" alt="Raz's Streak" />
+</p>
+
+---
+
+### 🌐 Connect
+* [**LinkedIn**](https://www.linkedin.com/in/raz-farage)
+* [**ArtStation**](https://www.artstation.com/razgraphics)
