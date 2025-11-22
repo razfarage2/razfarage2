@@ -1,4 +1,4 @@
-# Hi, I'm Raz Farage 👋
+# Hi, I'm Raz Farage
 
 **3D Generalist, Animator & Software Engineer**
 
@@ -6,7 +6,7 @@ I bridge the gap between creative workflows and scalable software. As a generali
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### Tech Stack & Skills
 
 **Core Engineering**
 * **Languages:** Python, TypeScript, C++ (Arduino)
@@ -20,23 +20,19 @@ I bridge the gap between creative workflows and scalable software. As a generali
 
 ---
 
-### 🔭 Current Focus
+### Current Focus
 * **Pipeline Tools:** Developing live-link exporters between Maya and After Effects to streamline multi-pass compositing.
 * **AI Systems:** Architecting multi-agent systems for workflow automation and personal assistance ecosystems.
 
 ---
 
-### 📊 Contributions & Activity
+### Contributions & Activity
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=razfarage2&show_icons=true&theme=minimal&count_private=true" alt="Raz's GitHub Stats" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=razfarage2&theme=minimal" alt="Raz's Streak" />
-</p>
-
 ---
 
-### 🌐 Connect
+### Connect
 * [**LinkedIn**](https://www.linkedin.com/in/raz-farage)
 * [**ArtStation**](https://www.artstation.com/razgraphics)
